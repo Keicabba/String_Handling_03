@@ -1,0 +1,19 @@
+
+    define array1 that contains the following strings:
+        " I want "
+        " to learn "
+        " how to code! "
+    remove all the whitespaces at the beginning and at the end of each string, assigning the new values to array2
+    print the boolean result of !(statement1 > statement2), where
+        statement1 corresponds to the lexicographical comparison between the first item of array2 and I want
+        statement2 corresponds to the comparison ignoring the case of the second item of array2 and To learn
+
+Traduzione:
+Definire l'array1 che contiene le seguenti stringhe:
+    " I want "
+    " to learn "
+    " how to code! "
+Rimuovere tutti gli spazi vuoti all'inizio e alla fine di ogni stringa, assegnando i nuovi valori all'array2.
+Stampare il risultato booleano di !(affermazione1 > affermazione2), dove
+    l'affermazione1 corrisponde al confronto lessicografico tra il primo elemento dell'array2 e "I want"
+    l'affermazione2 corrisponde al confronto ignorando la maiuscola del secondo elemento dell'array2 e "To learn"
